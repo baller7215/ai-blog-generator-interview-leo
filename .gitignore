@@ -1,1 +1,23 @@
+# Environment variables
 .env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Generated blog posts
+generated_posts/
+
+# Logs
+*.log
